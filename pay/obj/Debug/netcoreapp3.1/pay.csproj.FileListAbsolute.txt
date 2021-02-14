@@ -1,0 +1,12 @@
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.csprojAssemblyReference.cache
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.AssemblyInfoInputs.cache
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.AssemblyInfo.cs
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.csproj.CoreCompileInputs.cache
+/Users/josephine.chong/Documents/FMA/Payslip/pay/bin/Debug/netcoreapp3.1/pay.deps.json
+/Users/josephine.chong/Documents/FMA/Payslip/pay/bin/Debug/netcoreapp3.1/pay.runtimeconfig.json
+/Users/josephine.chong/Documents/FMA/Payslip/pay/bin/Debug/netcoreapp3.1/pay.runtimeconfig.dev.json
+/Users/josephine.chong/Documents/FMA/Payslip/pay/bin/Debug/netcoreapp3.1/pay.dll
+/Users/josephine.chong/Documents/FMA/Payslip/pay/bin/Debug/netcoreapp3.1/pay.pdb
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.dll
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.pdb
+/Users/josephine.chong/Documents/FMA/Payslip/pay/obj/Debug/netcoreapp3.1/pay.genruntimeconfig.cache
