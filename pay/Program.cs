@@ -24,7 +24,6 @@ namespace pay
             double incomeTax;
             double calculatedSuper;
 
-            // Console.WriteLine(welcomeMessage,getName);
             Console.WriteLine(welcomeMessage);
             Console.WriteLine(getName);
             name = Console.ReadLine();
