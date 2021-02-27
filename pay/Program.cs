@@ -66,12 +66,13 @@ namespace pay
             netIncome = grossIncome - incomeTax;
             
             Console.WriteLine("Your payslip has been generated:");
-            Console.WriteLine("Name: " + name + surname);
+            Console.WriteLine("Name: " + name + " " + surname);
             Console.WriteLine("Pay Period: " + startDate + " - " + endDate);
             Console.WriteLine("Gross Income: " + grossIncome);
             Console.WriteLine("Income Tax: " + incomeTax);
             Console.WriteLine("Net Income: " + netIncome);
             Console.WriteLine("Super: " + calculatedSuper);
+            Console.WriteLine("Thank you for using MYOB!");
         }
     }
 }
