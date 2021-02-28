@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace pay
 {
     class Program
@@ -36,13 +35,12 @@ namespace pay
             }
             double netIncome = grossIncome - incomeTax;
             Console.WriteLine("Please enter your super rate");
-            double super = Double.Parse(Console.ReadLine());
-            double calculatedSuper = Convert.ToInt32(Math.Floor(grossIncome * (super / 100)));
+            double super = Convert.ToInt32(Math.Floor(grossIncome * ((Double.Parse(Console.ReadLine())) / 100)));
             Console.WriteLine("Please enter your payment start date");
             string startDate = Console.ReadLine();
             Console.WriteLine("Please enter your payment end date");
             string endDate = Console.ReadLine();
-            Console.WriteLine($"Your payslip has been generated:\nName: {name} {surname}\nPay Period: {startDate} - {endDate}\nGross Income: {grossIncome}\nIncome Tax: {incomeTax}\nNet Income: {netIncome}\nSuper: {calculatedSuper}\nThank you for using MYOB!");
+            Console.WriteLine($"Your payslip has been generated:\nName: {name} {surname}\nPay Period: {startDate} - {endDate}\nGross Income: {grossIncome}\nIncome Tax: {incomeTax}\nNet Income: {netIncome}\nSuper: {super}\nThank you for using MYOB!");
         }
     }
 }
